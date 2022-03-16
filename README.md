@@ -3,7 +3,7 @@
 Yoyo!
 
 ## About me:
-* Intern at  <a href='https://www.prodemge.gov.br/'>PRODEMGE</a>
+* Intern at  <a href='https://hinova.com.br/'>Hinova</a>
 * Computer Science Student at <a href='https://www.una.br/'>UNA</a>
 * **Living in**: Belo Horizonte, Brazil
 
